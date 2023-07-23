@@ -2,10 +2,6 @@
 
 👋 Hi, I’m @Damyanov7
 
-👀 Currently I'm interested in web3-security and web3 in general
-
-📚 I have almost around 2 years of experience working as embedded SW developer
-
 💡 I like solving algorithms, I have a goal of reaching 500+ on leetcode - https://leetcode.com/Plamen27/
 
 🌱 Currently learning more about blockchain technologies
